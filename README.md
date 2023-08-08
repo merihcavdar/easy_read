@@ -1,16 +1,11 @@
-# easy_read
+# Easy Read
 
-A new Flutter project.
+an app in Flutter for zooming in a text
 
-## Getting Started
+## screenshot
+![easy_read](https://github.com/merihcavdar/easy_read/assets/84540989/e1f8049a-006a-4763-bd8a-13660a6d3722)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## features
+- textfield
+- slider
+- - setstate
