@@ -3,7 +3,7 @@
 an app in Flutter for zooming in a text
 
 ## screenshot
-![easy_read](https://github.com/merihcavdar/easy_read/assets/84540989/e1f8049a-006a-4763-bd8a-13660a6d3722)
+![easyread](https://github.com/merihcavdar/easy_read/assets/84540989/93d140df-0620-43e0-94fa-c64846db2b99)
 
 ## features
 - textfield
